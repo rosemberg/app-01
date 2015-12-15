@@ -11,7 +11,7 @@
         <groupId>br.jus.trepi</groupId>
         <artifactId>main-pom</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>D:\\Dev\\workspace\\main-pom</relativePath>
+        <relativePath>../main-pom</relativePath>
     </parent>
 
     <name>app-01</name>
